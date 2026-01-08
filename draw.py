@@ -152,3 +152,4 @@ def plot_derivative_comparison(expression, var_name='x', x_min=-10, x_max=10, po
 # TODO: Add interactive zooming and panning
 # TODO: Add support for parametric plots
 # TODO: Add 3D plotting capabilities
+# SOLUTION: Use different plotting software (ECharts, Nivo, Plotly etc...) view https://www.metabase.com/blog/best-open-source-chart-library
