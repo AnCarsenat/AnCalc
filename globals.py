@@ -1,0 +1,1 @@
+ALLOW_RUN_COMMANDS = True # Wether you can add "!" prefix to an eval and run python code
